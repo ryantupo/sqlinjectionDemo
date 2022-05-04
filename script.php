@@ -67,13 +67,5 @@ while ($row = mysqli_fetch_assoc($result)) {
 
 <div><pre style="color:#00f;"><?php echo $query_display; ?></pre></div>
 
-
-
-
-
-
 </body>
-
-
-
 </html>
